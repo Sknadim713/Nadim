@@ -17,13 +17,13 @@
 
 - 🔭 I’m currently working on [TeqHeal Solution](https://teqheal.com/)
   
-  <img align="right" src="https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif" alt="working animation" width="500"/>
+  <img align="right" src="https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif" alt="working animation" width="300"/>
 
 - 🌱 I’m currently learning **MongoDb & Node.js**
 
-- 💬 Ask me about **Angular , Node.js**
+- 💬 Ask me about **Angular, Node.js**
 
-- 📫 How to reach me **sknadeem713@gmail.com**
+- 📫 How to reach me **[sknadeem713@gmail.com](mailto:sknadeem713@gmail.com)**
 
 > "Code is like humor. When you have to explain it, it’s bad." - Cory House
 
@@ -36,7 +36,7 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaikh-nadim" height="30" width="40" />
     </a>
     <a href="mailto:sknadeem713@gmail.com" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="sknadeem713" height="30" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" />
     </a>
 </p>
 
