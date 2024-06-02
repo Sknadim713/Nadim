@@ -16,6 +16,8 @@
 </p>
 
 - 🔭 I’m currently working on [Indiconnect](https://www.indiconnect.in/)
+  
+  <img align="right" src="https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif" alt="working animation" width="150"/>
 
 - 🌱 I’m currently learning **MongoDb & Node.js**
 
