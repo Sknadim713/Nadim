@@ -3,7 +3,7 @@
 
 <img src="https://github.com/halfrost/halfrost/raw/master/icons/header_.png" alt="header image" width="100%">
 
-<img src="https://lh3.googleusercontent.com/a/ACg8ocI0bERFEmHNa_PkQjl63kYp-Ha8PUPdYUAQV0US_NLlOkEwhFNU=s288-c-no" alt="profile" width="400">
+<img src="https://lh3.googleusercontent.com/a/ACg8ocI0bERFEmHNa_PkQjl63kYp-Ha8PUPdYUAQV0US_NLlOkEwhFNU=s288-c-no" alt="profile" width="400" style="border-radius: 50%;">
 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=sknadim713&label=Profile%20views&color=0e75b6&style=flat" alt="sknadim713" /> 
@@ -25,10 +25,18 @@
 
 - 📫 How to reach me **sknadeem713@gmail.com**
 
+> "Code is like humor. When you have to explain it, it’s bad." - Cory House
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://instagram.com/sknadeem713" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sknadeem713" height="30" width="40" style="border-radius: 50%"/>
+    </a>
+    <a href="https://www.linkedin.com/in/shaikh-nadim-1a3453178/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaikh-nadim" height="30" width="40" />
+    </a>
+    <a href="mailto:sknadeem713@gmail.com" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="sknadeem713" height="30" width="40" />
     </a>
 </p>
 
